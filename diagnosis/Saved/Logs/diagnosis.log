@@ -7955,3 +7955,31 @@ Potentially Affected Packages:
 [2022.03.31-23.31.13:430][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/doctor/ABP_doctor" FILE="../../../../../../unreal/giddy-up/diagnosis/Saved/Autosaves/Game/doctor/ABP_doctor_Auto6.uasset" SILENT=false AUTOSAVING=true
 [2022.03.31-23.31.13:454][890]LogSavePackage: Moving '../../../../../../unreal/giddy-up/diagnosis/Saved/ABP_doctor_Auto6A329DB594C7D0D299DFA7482598641C2.tmp' to '../../../../../../unreal/giddy-up/diagnosis/Saved/Autosaves/Game/doctor/ABP_doctor_Auto6.uasset'
 [2022.03.31-23.31.13:455][890]LogFileHelpers: Auto-saving content packages took 0.042
+[2022.04.01-00.50.27:715][919]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2022.04.01-00.50.27:766][919]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/prueba" FILE="../../../../../../unreal/giddy-up/diagnosis/Content/Maps/prueba.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.01-00.50.27:800][919]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.04.01-00.50.27:810][919]LogSavePackage: Moving '../../../../../../unreal/giddy-up/diagnosis/Saved/prueba001FE7DF40FA99F998AB4692E4D6EA8E.tmp' to '../../../../../../unreal/giddy-up/diagnosis/Content/Maps/prueba.umap'
+[2022.04.01-00.50.27:824][919]LogFileHelpers: Saving map 'prueba' took 0.060
+[2022.04.01-00.50.27:825][919]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/doctor/ABP_doctor" FILE="../../../../../../unreal/giddy-up/diagnosis/Content/doctor/ABP_doctor.uasset" SILENT=true
+[2022.04.01-00.50.27:853][919]LogSavePackage: Moving '../../../../../../unreal/giddy-up/diagnosis/Saved/ABP_doctor84A647D74BBC18FBB0948D8C60BA5631.tmp' to '../../../../../../unreal/giddy-up/diagnosis/Content/doctor/ABP_doctor.uasset'
+[2022.04.01-00.50.27:882][919]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/doctor/animaciones/Run_mixamo_com" FILE="../../../../../../unreal/giddy-up/diagnosis/Content/doctor/animaciones/Run_mixamo_com.uasset" SILENT=true
+[2022.04.01-00.50.27:890][919]LogSavePackage: Moving '../../../../../../unreal/giddy-up/diagnosis/Saved/Run_mixamo_com8EF414DA45705ABED49049B8421E8B49.tmp' to '../../../../../../unreal/giddy-up/diagnosis/Content/doctor/animaciones/Run_mixamo_com.uasset'
+[2022.04.01-00.50.27:905][919]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/doctor/animaciones/Run_Take_001" FILE="../../../../../../unreal/giddy-up/diagnosis/Content/doctor/animaciones/Run_Take_001.uasset" SILENT=true
+[2022.04.01-00.50.27:915][919]LogSavePackage: Moving '../../../../../../unreal/giddy-up/diagnosis/Saved/Run_Take_001C3D1CA0441D0BA2F89FBBA97F8826DD8.tmp' to '../../../../../../unreal/giddy-up/diagnosis/Content/doctor/animaciones/Run_Take_001.uasset'
+[2022.04.01-00.50.27:942][919]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.01-00.50.27:942][919]LogContentValidation: Display: Validating World /Game/Maps/prueba.prueba
+[2022.04.01-00.50.27:942][919]LogContentValidation: Display: Validating AnimBlueprint /Game/doctor/ABP_doctor.ABP_doctor
+[2022.04.01-00.50.27:942][919]LogContentValidation: Display: Validating AnimSequence /Game/doctor/animaciones/Run_Take_001.Run_Take_001
+[2022.04.01-00.50.27:942][919]LogContentValidation: Display: Validating AnimSequence /Game/doctor/animaciones/Run_mixamo_com.Run_mixamo_com
+[2022.04.01-01.03.36:293][821]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.04.01-01.03.56:347][881]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.04.01-01.04.39:835][ 11]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.04.01-01.05.09:981][101]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.04.01-01.05.23:432][411]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/BP_gamemode.BP_gamemode
+[2022.04.01-01.06.10:223][265]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2022.04.01-01.06.10:223][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.01-01.06.58:546][630]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.04.01-01.08.41:412][ 65]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.04.01-01.09.38:394][235]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.04.01-01.09.41:090][393]LogUObjectHash: Compacting FUObjectHashTables data took   5.54ms
+[2022.04.01-01.09.42:518][559]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
